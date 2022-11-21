@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/toDoList">
+
+    <activity
+        android:id="@+id/property"
+        android:name="developer.behzod.todo.Property"
+        android:label="activity_property"
+        tools:layout="@layout/activity_property" />
+    <activity
+        android:id="@+id/toDoList"
+        android:name="developer.behzod.todo.ToDoList"
+        android:label="activity_to_do_list"
+        tools:layout="@layout/activity_to_do_list" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="developer.behzod.todo.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/addToDo2"
+        android:name="developer.behzod.todo.AddToDo"
+        android:label="AddToDo" />
+</navigation>

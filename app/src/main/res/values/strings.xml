@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="add_to_do">Add To Do</string>
+    <string name="ro_yxatlar">Ro\'yxatlar</string>
+    <string name="save">save</string>
+    <string name="to_do_name">To Do Name</string>
+    <string name="to_do_describtion">To Do Describtion</string>
+    <string name="creat_to_do_data">Creat To Do Data</string>
+    <string name="create_to_do_dedline">Create To Do Dedline</string>
+    <string name="to_do_dedline">to_do_dedline</string>
+    <string name="to_do_dedline1">to do dedline</string>
+    <string name="to_do_describtion2">To Do Describtion</string>
+    <string name="to_do_create_data">To Do Create Data</string>
+    <string name="open">Open</string>
+    <string name="development">Development</string>
+    <string name="uploading">Uploading</string>
+    <string name="reject">Reject</string>
+    <string name="closed">Closed</string>
+    <string name="ok">Ok</string>
+    <string name="to_do_description">To_do_description</string>
+    <string name="to_do_description3">To Do description</string>
+    <string name="to_do_dedline3">To Do dedline</string>
+    <string name="todo">TODO</string>
+</resources>
